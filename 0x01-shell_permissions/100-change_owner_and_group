@@ -1,2 +1,2 @@
-#!/bin/bash
-chown -R vincent:staff
+[master 28a5e04] change owner
+ 1 file changed, 1 insertion(+), 1 deletion(-)
